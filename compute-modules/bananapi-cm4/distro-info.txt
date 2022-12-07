@@ -1,0 +1,5 @@
+Distro: 2022-06-20-ubuntu-20.04-server-bpi-m2s-aarch64-sd-emmc.img.zip
+Source: https://drive.google.com/file/d/116ZydpggYpZ1WoSyVsc4QuchdIa3vGyI/view?usp=share_link
+Documentation:
+  * https://wiki.banana-pi.org/Banana_Pi_BPI-CM4
+  * https://wiki.banana-pi.org/Banana_Pi_BPI-M2S
