@@ -4,7 +4,7 @@ hwinfo profiles of single board computers
 ## directions for adding profiles
 
 1. clone repo
-2. mkdir a subdirectory under the form factor of the computer in question
+2. make a subdirectory under the form factor of the computer in question
 3. capture output from
     + `dmesg`
     + `hwinfo`
