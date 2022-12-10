@@ -1,0 +1,1 @@
+Linux rockpro64-0.local 5.15.80-rockchip64 #22.11.1 SMP PREEMPT Wed Nov 30 11:12:47 UTC 2022 aarch64 aarch64 aarch64 GNU/Linux

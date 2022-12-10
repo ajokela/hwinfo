@@ -1,0 +1,1 @@
+FreeBSD rpi-freebsd-0 13.1-RELEASE FreeBSD 13.1-RELEASE releng/13.1-n250148-fc952ac2212 GENERIC arm64
