@@ -1,0 +1,1 @@
+Linux odroidn2 5.19.17-meson64 #22.08.7 SMP PREEMPT Thu Oct 27 18:34:08 CEST 2022 aarch64 aarch64 aarch64 GNU/Linux
