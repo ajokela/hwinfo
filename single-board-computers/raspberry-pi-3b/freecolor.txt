@@ -1,0 +1,4 @@
+             total       used       free     shared    buffers     cached
+Mem:          1902        327       1574          0          0          0
+Swap:            0          0          0
+Total:        1902 = (     327 (used) +     1574 (free))
