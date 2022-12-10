@@ -10,6 +10,7 @@ hwinfo profiles of single board computers
     + `dmesg`
     + `hwinfo`
     + `lscpu`
+    * `uname -a`
 4. execute `neofetch`
     + grab a screen shot of the terminal window with the output of `neofetch`
 5. copy README.md from another computer's directory
