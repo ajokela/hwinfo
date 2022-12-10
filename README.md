@@ -1,7 +1,8 @@
 # hwinfo
 hwinfo profiles of single board computers
 
-## directions for adding profiles
+## directions for adding profiles (assumes using linux of some flavor)
+
 
 1. clone repo
 2. make a subdirectory under the form factor of the computer in question
