@@ -1,0 +1,1 @@
+Linux bananapi-cm4 4.9.241-BPI-M2S #1 SMP PREEMPT Fri Jun 17 12:23:43 HKT 2022 aarch64 aarch64 aarch64 GNU/Linux
